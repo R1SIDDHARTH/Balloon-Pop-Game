@@ -70,7 +70,7 @@ The project has been compressed using **7-Zip** into parts, each of 10 MB size, 
    - Select **7-Zip > Extract Here** or **Extract to "ai.zip/"** (if you want to extract the contents into a separate folder).
    - 7-Zip will automatically combine all parts and extract the files.
 4. **Move the Extracted Files**: After extracting the files:
-   - **Cut and paste** the extracted `ai` folder into the **Virtual Keyboard** project folder, the one that contains the `.main` file. This ensures that the virtual keyboard can correctly access the extracted files and run smoothly.
+   - **Cut and paste** the extracted `ai` folder into the **Balloon-Pop-Game** project folder, the one that contains the `.main` file. This ensures that the Balloon-Pop-Game can correctly access the extracted files and run smoothly.
 
 ## Customization
 
